@@ -1,0 +1,45 @@
+[0.008s] Invoking command in '/home/bhadwabhindi/panda_ws/build/panda_controller': CMAKE_PREFIX_PATH=/home/bhadwabhindi/panda_ws/install/panda_description:/home/bhadwabhindi/panda_ws/install/panda_bringup:/home/bhadwabhindi/panda_ws/install/pymoveit2:/home/bhadwabhindi/panda_ws/install/panda_moveit:/home/bhadwabhindi/panda_ws/install/panda_controller:/home/bhadwabhindi/ros2_ws/install/my_robot_bringup:/home/bhadwabhindi/panda_ws/install/panda_vision:/home/bhadwabhindi/ros2_ws/install/surgiarm_description:/home/bhadwabhindi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/bhadwabhindi/panda_ws/build/panda_controller -- -j12 -l12
+[0.048s] Built target ament_cmake_python_copy_panda_controller
+[0.269s] running egg_info
+[0.278s] writing panda_controller.egg-info/PKG-INFO
+[0.278s] writing dependency_links to panda_controller.egg-info/dependency_links.txt
+[0.278s] writing top-level names to panda_controller.egg-info/top_level.txt
+[0.313s] reading manifest file 'panda_controller.egg-info/SOURCES.txt'
+[0.314s] writing manifest file 'panda_controller.egg-info/SOURCES.txt'
+[0.350s] Built target ament_cmake_python_build_panda_controller_egg
+[0.359s] Invoked command in '/home/bhadwabhindi/panda_ws/build/panda_controller' returned '0': CMAKE_PREFIX_PATH=/home/bhadwabhindi/panda_ws/install/panda_description:/home/bhadwabhindi/panda_ws/install/panda_bringup:/home/bhadwabhindi/panda_ws/install/pymoveit2:/home/bhadwabhindi/panda_ws/install/panda_moveit:/home/bhadwabhindi/panda_ws/install/panda_controller:/home/bhadwabhindi/ros2_ws/install/my_robot_bringup:/home/bhadwabhindi/panda_ws/install/panda_vision:/home/bhadwabhindi/ros2_ws/install/surgiarm_description:/home/bhadwabhindi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/bhadwabhindi/panda_ws/build/panda_controller -- -j12 -l12
+[0.360s] Invoking command in '/home/bhadwabhindi/panda_ws/build/panda_controller': CMAKE_PREFIX_PATH=/home/bhadwabhindi/panda_ws/install/panda_description:/home/bhadwabhindi/panda_ws/install/panda_bringup:/home/bhadwabhindi/panda_ws/install/pymoveit2:/home/bhadwabhindi/panda_ws/install/panda_moveit:/home/bhadwabhindi/panda_ws/install/panda_controller:/home/bhadwabhindi/ros2_ws/install/my_robot_bringup:/home/bhadwabhindi/panda_ws/install/panda_vision:/home/bhadwabhindi/ros2_ws/install/surgiarm_description:/home/bhadwabhindi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/bhadwabhindi/panda_ws/build/panda_controller
+[0.365s] -- Install configuration: ""
+[0.365s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller//launch
+[0.365s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller//launch/panda_controller.launch.py
+[0.365s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller//launch/slider_controller.launch.py
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller//config
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller//config/panda_controllers.yaml
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/pythonpath.sh
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/pythonpath.dsv
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller-0.0.0-py3.10.egg-info
+[0.366s] -- Installing: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.366s] -- Installing: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller-0.0.0-py3.10.egg-info/top_level.txt
+[0.366s] -- Installing: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.366s] -- Installing: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller/__init__.py
+[0.366s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller/slider_controller.py
+[0.391s] Listing '/home/bhadwabhindi/panda_ws/install/panda_controller/local/lib/python3.10/dist-packages/panda_controller'...
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/lib/panda_controller/slider_controller.py
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/ament_index/resource_index/package_run_dependencies/panda_controller
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/ament_index/resource_index/parent_prefix_path/panda_controller
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/ament_prefix_path.sh
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/ament_prefix_path.dsv
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/path.sh
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/environment/path.dsv
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/local_setup.bash
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/local_setup.sh
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/local_setup.zsh
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/local_setup.dsv
+[0.394s] -- Installing: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/package.dsv
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/ament_index/resource_index/packages/panda_controller
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/cmake/panda_controllerConfig.cmake
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/cmake/panda_controllerConfig-version.cmake
+[0.394s] -- Up-to-date: /home/bhadwabhindi/panda_ws/install/panda_controller/share/panda_controller/package.xml
+[0.395s] Invoked command in '/home/bhadwabhindi/panda_ws/build/panda_controller' returned '0': CMAKE_PREFIX_PATH=/home/bhadwabhindi/panda_ws/install/panda_description:/home/bhadwabhindi/panda_ws/install/panda_bringup:/home/bhadwabhindi/panda_ws/install/pymoveit2:/home/bhadwabhindi/panda_ws/install/panda_moveit:/home/bhadwabhindi/panda_ws/install/panda_controller:/home/bhadwabhindi/ros2_ws/install/my_robot_bringup:/home/bhadwabhindi/panda_ws/install/panda_vision:/home/bhadwabhindi/ros2_ws/install/surgiarm_description:/home/bhadwabhindi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/bhadwabhindi/panda_ws/build/panda_controller

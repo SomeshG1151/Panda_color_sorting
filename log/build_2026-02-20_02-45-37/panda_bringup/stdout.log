@@ -1,0 +1,22 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bhadwabhindi/panda_ws/build/panda_bringup
+-- Install configuration: ""
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/launch
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/launch/pick_and_place.launch.py
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/ament_index/resource_index/package_run_dependencies/panda_bringup
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/ament_index/resource_index/parent_prefix_path/panda_bringup
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/environment/ament_prefix_path.sh
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/environment/path.sh
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/environment/path.dsv
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.bash
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.sh
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.zsh
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.dsv
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/package.dsv
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/ament_index/resource_index/packages/panda_bringup
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/cmake/panda_bringupConfig.cmake
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/cmake/panda_bringupConfig-version.cmake
+-- Installing: /home/bhadwabhindi/panda_ws/install/panda_bringup/share/panda_bringup/package.xml

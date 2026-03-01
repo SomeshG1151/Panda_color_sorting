@@ -1,0 +1,37 @@
+[0.632s] Invoking command in '/home/bhadwabhindi/panda_ws/src/panda_vision': PYTHONPATH=/home/bhadwabhindi/panda_ws/build/panda_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/panda_vision build --build-base /home/bhadwabhindi/panda_ws/build/panda_vision/build install --record /home/bhadwabhindi/panda_ws/build/panda_vision/install.log --single-version-externally-managed install_data
+[0.851s] running egg_info
+[0.851s] creating ../../build/panda_vision/panda_vision.egg-info
+[0.865s] writing ../../build/panda_vision/panda_vision.egg-info/PKG-INFO
+[0.865s] writing dependency_links to ../../build/panda_vision/panda_vision.egg-info/dependency_links.txt
+[0.865s] writing entry points to ../../build/panda_vision/panda_vision.egg-info/entry_points.txt
+[0.865s] writing requirements to ../../build/panda_vision/panda_vision.egg-info/requires.txt
+[0.865s] writing top-level names to ../../build/panda_vision/panda_vision.egg-info/top_level.txt
+[0.865s] writing manifest file '../../build/panda_vision/panda_vision.egg-info/SOURCES.txt'
+[0.881s] reading manifest file '../../build/panda_vision/panda_vision.egg-info/SOURCES.txt'
+[0.882s] writing manifest file '../../build/panda_vision/panda_vision.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.882s] creating /home/bhadwabhindi/panda_ws/build/panda_vision/build
+[0.882s] creating /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib
+[0.882s] creating /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib/panda_vision
+[0.882s] copying panda_vision/color_detector.py -> /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib/panda_vision
+[0.882s] copying panda_vision/__init__.py -> /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib/panda_vision
+[0.882s] running install
+[0.885s] running install_lib
+[0.894s] creating /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision
+[0.894s] copying /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib/panda_vision/color_detector.py -> /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision
+[0.894s] copying /home/bhadwabhindi/panda_ws/build/panda_vision/build/lib/panda_vision/__init__.py -> /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision
+[0.894s] byte-compiling /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision/color_detector.py to color_detector.cpython-310.pyc
+[0.894s] byte-compiling /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision/__init__.py to __init__.cpython-310.pyc
+[0.894s] running install_data
+[0.894s] creating /home/bhadwabhindi/panda_ws/install/panda_vision/share/ament_index
+[0.894s] creating /home/bhadwabhindi/panda_ws/install/panda_vision/share/ament_index/resource_index
+[0.894s] creating /home/bhadwabhindi/panda_ws/install/panda_vision/share/ament_index/resource_index/packages
+[0.894s] copying resource/panda_vision -> /home/bhadwabhindi/panda_ws/install/panda_vision/share/ament_index/resource_index/packages
+[0.894s] copying package.xml -> /home/bhadwabhindi/panda_ws/install/panda_vision/share/panda_vision
+[0.894s] running install_egg_info
+[0.903s] Copying ../../build/panda_vision/panda_vision.egg-info to /home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages/panda_vision-0.0.0-py3.10.egg-info
+[0.903s] running install_scripts
+[0.937s] Installing color_detector script to /home/bhadwabhindi/panda_ws/install/panda_vision/lib/panda_vision
+[0.937s] writing list of installed files to '/home/bhadwabhindi/panda_ws/build/panda_vision/install.log'
+[0.964s] Invoked command in '/home/bhadwabhindi/panda_ws/src/panda_vision' returned '0': PYTHONPATH=/home/bhadwabhindi/panda_ws/build/panda_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bhadwabhindi/panda_ws/install/panda_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/panda_vision build --build-base /home/bhadwabhindi/panda_ws/build/panda_vision/build install --record /home/bhadwabhindi/panda_ws/build/panda_vision/install.log --single-version-externally-managed install_data

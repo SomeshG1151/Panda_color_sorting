@@ -1,0 +1,2 @@
+Invoking command in '/home/bhadwabhindi/panda_ws/build/panda_bringup': /usr/bin/cmake /home/bhadwabhindi/panda_ws/src/panda_bringup -DCMAKE_INSTALL_PREFIX=/home/bhadwabhindi/panda_ws/install/panda_bringup
+Invoked command in '/home/bhadwabhindi/panda_ws/build/panda_bringup' returned '1': /usr/bin/cmake /home/bhadwabhindi/panda_ws/src/panda_bringup -DCMAKE_INSTALL_PREFIX=/home/bhadwabhindi/panda_ws/install/panda_bringup
