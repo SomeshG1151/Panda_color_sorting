@@ -13,3 +13,5 @@ logs/
 # Python caches
 __pycache__/
 *.pyc
+.vscode/
+*.vc.db
