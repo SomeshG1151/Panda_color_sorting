@@ -1,6 +1,5 @@
 
 
-````markdown
 # Panda Color Sorting System (ROS 2)
 
 A ROS 2-based intelligent color sorting system powered by the **Franka Emika Panda** robotic arm. This project integrates **OpenCV** computer vision, **MoveIt 2** motion planning, and **Gazebo** simulation to create an autonomous pick-and-place system that detects and sorts colored objects with precision.
@@ -19,7 +18,6 @@ A ROS 2-based intelligent color sorting system powered by the **Franka Emika Pan
 
 ## Folder Structure
 
-```text
 panda_ws/
 ├── panda_bringup        # Launch files and robot initialization
 ├── panda_controller     # Robot control nodes
