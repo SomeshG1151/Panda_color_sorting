@@ -70,8 +70,6 @@ ros2 run pymoveit2 pick_and_place.py --ros-args -p target_color:=R
 
 ![Data Visualization](images/Data.png)
 
-> Place your images inside an `images/` folder in the repository.
-
 ---
 
 ## Notes
