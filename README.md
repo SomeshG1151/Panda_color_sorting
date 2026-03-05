@@ -64,11 +64,11 @@ ros2 run pymoveit2 pick_and_place.py --ros-args -p target_color:=R
 
 **Gazebo simulation of the Panda arm:**
 
-![Simulation](images/Simulation.jpeg)
+![Simulation](Simulation.jpeg)
 
 **Pick-and-place operation in RViz:**
 
-![Data Visualization](images/Data.jpeg)
+![Data Visualization](Data.jpeg)
 
 ---
 
